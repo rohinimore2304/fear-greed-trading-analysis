@@ -55,9 +55,7 @@ Both datasets are merged on the `Date` column for joint analysis.
 ```
 ├── trading_sentiment_project.ipynb     # Main analysis notebook
 ├── README.md                           # Project documentation
-├── data/
-│   ├── fear_greed_index.csv
-│   ├── historical_trader_data.csv
+├── fear_greed_index.csv
 ```
 
 ## 📧 Contact
